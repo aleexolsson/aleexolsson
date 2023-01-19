@@ -27,6 +27,6 @@
 <h3 align="left">Help Me Out:</h3>
 <p><a href="https://www.buymeacoffee.com/aleexolsson"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="aleexolsson" /></a><a href="https://ko-fi.com/aleexolsson"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="aleexolsson" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aleexolsson&show_icons=true&locale=en&layout=compact" alt="aleexolsson" /></p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleexolsson&theme=tokyonight" align="right"/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aleexolsson&show_icons=true&locale=en" alt="aleexolsson" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aleexolsson&show_icons=true&theme=tokyonight&locale=en" alt="aleexolsson" /></p>
