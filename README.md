@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alex</h1>
-<h3 align="center">Student at TeknikCollege Stenungsund on the Swedish West Coast</h3>
+<h3 align="center">Student at TeknikCollege Stenungsund and intern on Hogia-Gruppen on the Swedish West Coast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aleexolsson&label=Profile%20views&color=0e75b6&style=flat" alt="aleexolsson" /> </p>
 
@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/alex_olsson" target="blank"><img src="https://img.shields.io/twitter/follow/alex_olsson?logo=twitter&style=for-the-badge" alt="alex_olsson" /></a> </p>
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Java** and **C#**
 
 
 <h3 align="left">Connect With Me:</h3>
