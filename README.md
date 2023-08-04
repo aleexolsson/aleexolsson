@@ -11,7 +11,7 @@
 <h3 align="left">Connect With Me:</h3>
 <p align="left">
 <a href="https://twitter.com/alex_olsson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alex_olsson" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/aleexolsson391" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aleexolsson391" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/alexolsson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aleexolsson391" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/11531966" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="11531966" height="30" width="40" /></a>
 <a href="https://fb.com/aleexolsson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aleexolsson" height="30" width="40" /></a>
 <a href="https://instagram.com/aleexolsson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aleexolsson" height="30" width="40" /></a>
