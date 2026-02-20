@@ -15,5 +15,3 @@
 
 <h3 align="left">Help Me Out:</h3>
 <p><a href="https://www.buymeacoffee.com/aleexolsson"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="aleexolsson" /></a><a href="https://ko-fi.com/aleexolsson"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="aleexolsson" /></a></p><br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleexolsson&theme=tokyonight"/>
