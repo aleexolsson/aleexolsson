@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alex</h1>
-<h3 align="center">IT-Supporttechnician at Hogia Infrastructure Services in Stenungsund on the Swedish West Coast</h3>
+<h3 align="center">I work in IT</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aleexolsson&label=Profile%20views&color=0e75b6&style=flat" alt="aleexolsson" /> </p>
 
